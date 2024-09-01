@@ -23,7 +23,7 @@ This company provides hardware products to its clients worldwide.
 
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
-  1)**P&L by  Fiscal Years** https://github.com/Lesie-23/Excel--Sales-and-Finance-Analytics/blob/main/P%26L%20by%20%20fiscal%20years.pdf & **Months** https://github.com/Lesie-23/Excel--Sales-and-Finance-Analytics/blob/main/P%26%20L%20by%20fiscal%20months.pdf
+  1)**P&L by  Fiscal Years** https://github.com/Lesie-23/Excel--Sales-and-Finance-Analytics/blob/main/P%26L%20by%20%20fiscal%20years.pdf & **Months** https://github.com/Lesie-23/Excel--Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20by%20%20fiscal%20months.pdf
 
   2)**P&L by Markets**https://github.com/Lesie-23/Excel--Sales-and-Finance-Analytics/blob/main/P%26L%20by%20Markets.pdf
   
